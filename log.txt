@@ -1,0 +1,12 @@
+2021-04-04 17:48:21,373 WARNING werkzeug  * Debugger is active!
+2021-04-04 17:48:21,382 INFO werkzeug  * Debugger PIN: 334-046-407
+2021-04-04 17:48:21,395 INFO werkzeug  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2021-04-04 17:48:49,845 INFO werkzeug  * Detected change in 'E:\\0 Work\\OneDrive\\OneDrive - Northumbria University - Production Azure AD\\Uni_Year_3\\0_Solo_Project\\Code\\ESRGAN-Flask\\image_utilities.py', reloading
+2021-04-04 17:48:53,092 WARNING werkzeug  * Debugger is active!
+2021-04-04 17:48:53,100 INFO werkzeug  * Debugger PIN: 334-046-407
+2021-04-04 17:48:53,114 INFO werkzeug  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2021-04-04 17:50:02,336 INFO werkzeug  * Detected change in 'E:\\0 Work\\OneDrive\\OneDrive - Northumbria University - Production Azure AD\\Uni_Year_3\\0_Solo_Project\\Code\\ESRGAN-Flask\\image_utilities.py', reloading
+2021-04-04 17:50:05,746 WARNING werkzeug  * Debugger is active!
+2021-04-04 17:50:05,754 INFO werkzeug  * Debugger PIN: 334-046-407
+2021-04-04 17:50:05,767 INFO werkzeug  * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2021-04-04 17:51:38,920 INFO werkzeug  * Detected change in 'E:\\0 Work\\OneDrive\\OneDrive - Northumbria University - Production Azure AD\\Uni_Year_3\\0_Solo_Project\\Code\\ESRGAN-Flask\\image_utilities.py', reloading
