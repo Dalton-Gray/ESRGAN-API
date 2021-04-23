@@ -12,6 +12,6 @@ This project aims to use modern deep learning techniques to produce a web-app ca
   - numpy
   - opencv
 
-### Project Structure
-1. Pretrained ESRGAN model
-2. Flask API
+### Instructions
+1. Install dependencies
+2. ```Python app.py``` to run appliction
