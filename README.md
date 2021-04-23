@@ -14,4 +14,4 @@ This project aims to use modern deep learning techniques to produce a web-app ca
 
 ### Instructions
 1. Install dependencies
-2. ```Python app.py``` to run appliction
+2. ```Python app.py``` to start the web app
