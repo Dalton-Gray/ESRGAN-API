@@ -2,11 +2,11 @@ import os.path as osp
 import glob
 import numpy as np
 import torch
-import RRDBNet_arch as arch
+from nn import RRDBNet_arch as arch
 
 
 def RRDB_PSNR(device):
-	model_path = 'models/RRDB_PSNR_x4.pth' 
+	model_path = 'nn/RRDB_PSNR_x4.pth' 
 
 	model = arch.RRDBNet(3, 3, 64, 23, gc=32)
 	model.load_state_dict(torch.load(model_path), strict=True)
@@ -16,7 +16,7 @@ def RRDB_PSNR(device):
 
 
 def interp08(device):
-	model_path = 'models/interp_08.pth' 
+	model_path = 'nn/interp_08.pth' 
 
 	model = arch.RRDBNet(3, 3, 64, 23, gc=32)
 	model.load_state_dict(torch.load(model_path), strict=True)
